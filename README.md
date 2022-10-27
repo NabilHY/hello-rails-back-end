@@ -1,41 +1,41 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Rails API App
 
-> Description the project.
-
-
+>  The application is a an API that displays random greetings 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- Languages: Ruby
+- Framework: Ruby on Rails
+- Database: PostgreSQL
 
-## Live Demo (if available)
+## Link to Front-End App
+## [React App](https://github.com/NabilHY/hello-react-front-end)
 
-[Live Demo Link](https://livedemo.com)
-
-
-## Getting Started
-
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
-To get a local copy up and running follow these simple example steps.
-
+### Getting Started
 ### Prerequisites
-
+- Have a computer and internet connection
+- Have `Ruby` installed on your computer
+- Have `Rails` installed on your computer
+- Have a basic knowledge of `Ruby` and `OOP` concept
+- Have a basic knowledge of `Rails`
+- Have a general understanding of what testing is
+- Have `visual-studio code` or any other code editor installed on your computer.
 ### Setup
-
+- In order to get a copy of this project you need to download it from [here](https://github.com/NabilHY/hello-rails-back-end)
+- Extract the zipped file and open it in your code editor
 ### Install
-
+- Run the command bellow in your terminal to get all required files
+```
+bundle install
+```
+2. Run linters
+```Ruby
+> Rubocop --color
+> Rubocop -A
+```
 ### Usage
-
-### Run tests
-
-### Deployment
-
+`$ rails s` To start live server
 
 
 ## Authors
